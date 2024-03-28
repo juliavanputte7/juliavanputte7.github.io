@@ -16,7 +16,7 @@ profiles:
     image_orientation: "portrait"
     more_info: 
   - align: left
-    image: concert.jpg
+    image: hike.jpg
     content: music.md
     image_circular: false # crops the image to make it circular
     image_orientation: "landscape"

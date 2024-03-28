@@ -9,10 +9,6 @@ layout: page
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
-            {% assign orientation_class = "" %}
-            {% if profile.image_orientation == "portrait" %}
-              {% assign orientation_class = "portrait" %}
-            {% endif %}
             {% if profile.image_circular %}
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
             {% else %}
