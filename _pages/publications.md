@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Projects/
+permalink: /projects/
 title: Projects
 description: Projects I have worked on in my time at Cornell
 nav: true
