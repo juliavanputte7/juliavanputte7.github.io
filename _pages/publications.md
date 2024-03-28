@@ -4,7 +4,7 @@ permalink: /projects/
 title: Projects
 description: Projects I have worked on in my time at Cornell
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
