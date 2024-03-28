@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /miscellaneous/
-title: Hobbies, Interests, Etc
+title: other
 description:
 nav: true
 nav_order: 7

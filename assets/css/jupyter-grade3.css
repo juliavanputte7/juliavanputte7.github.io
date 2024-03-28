@@ -34,11 +34,13 @@ a {
 .landscape {
   width: 100%;
   height: auto;
+  image-orientation: from-image;
 }
 
 .portrait {
   height: 100%;
   width: auto;
+  image-orientation: from-image;
 }
 a:hover,
 a:focus {
