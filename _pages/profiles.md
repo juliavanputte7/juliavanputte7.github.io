@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /miscellaneous/
+permalink: /other/
 title: other
 description:
 nav: true
