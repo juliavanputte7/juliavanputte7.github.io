@@ -31,7 +31,15 @@ a {
   color: #303030;
   -webkit-font-smoothing: antialiased !important;
 }
+.landscape {
+  width: 100%;
+  height: auto;
+}
 
+.portrait {
+  height: 100%;
+  width: auto;
+}
 a:hover,
 a:focus {
   color: #2f2f2f;

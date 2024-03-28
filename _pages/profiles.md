@@ -13,15 +13,18 @@ profiles:
     image: hike.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
+    image_orientation: "portrait"
     more_info: 
   - align: left
     image: concert.jpg
     content: music.md
     image_circular: false # crops the image to make it circular
+    image_orientation: "landscape"
     more_info: 
   - align: right
     image: travel.jpg
     content: travel.md
     image_circular: false # crops the image to make it circular
+    image_orientation: "portrait"
     more_info: 
 ---
