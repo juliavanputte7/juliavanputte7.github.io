@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /other/
-title: other
+title: Other
 description:
 nav: true
 nav_order: 7

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: jhv42@cornell.edu | juliavp516@gmail.com | (864)-516-9979
 
