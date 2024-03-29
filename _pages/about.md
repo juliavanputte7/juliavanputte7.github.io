@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: jhv42@cornell.edu | juliavp516@gmail.com | (864)-516-9979
+subtitle: jhv42@cornell.edu  ||  juliavp516@gmail.com  ||  (864)-516-9979
 
 profile:
   align: right
@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Julia is a passionate, analytical, and creative Masters Student at Cornell University studying Operations Research and Information Engineering with a concentration in Data Analytics. She will graduate in December 2024. She just completed her Bachelors in Operations Research and Information Engineering with minor in Data Science at Cornell University in December 2023. 
 
-This summer, Julia will be working at [Johns Hopkins Applied Physics Labratory](https://www.jhuapl.edu/) as a Systems and Operations Research and Analysis Intern in Laurel, MD. Upon completion of her Master's degree, she will be working at [Sage Analysis Group](https://sageanalysis.com/) as a Consultant Analyst in Boston, MA, focusing on data science, discrete event simulation, and system dynamics.
+Upon completion of her Master's degree, Julia will be working at [Sage Analysis Group](https://sageanalysis.com/) as a Consultant Analyst in Boston, MA, focusing on data science, discrete event simulation, and system dynamics. This summer, Julia will be working at [Johns Hopkins Applied Physics Labratory](https://www.jhuapl.edu/) as a Systems and Operations Research and Analysis Intern in Laurel, MD. 
 
 She is interested in the intersection of technology and business, specifically in the realm of Data Analytics and Data Science. She hopes to use her strong technical skills to solve complex problems in the consulting industry. She is interested in innovation, technology, data, and critical problem solving in a fast-paced environment. 
 
