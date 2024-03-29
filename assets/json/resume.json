@@ -37,7 +37,7 @@
       "position": "Consultant Analyst",
       "url": "https://sageanalysis.com/",
       "startDate": "2025-03",
-      "endDate": "",
+      "endDate": "-",
       "summary": "",
       "highlights": ["System Dynamics","Discrete Event Simulation","Data Science","Consulting"]
     },
@@ -80,6 +80,15 @@
       "endDate": "2023-05",
       "summary": "Spearheaded establishment of supply chain for start-up. Devised systems for order fulfillment, inventory management, product manufacturing, and production tracking, saving costs by over 15%.",
       "highlights": ["Supply Chain Management","Startup"]
+    },
+    {
+      "name": "Cornell University College of Engineering",
+      "location": "Ithaca, NY",
+      "position": "Teaching Assistant",
+      "url": "https://www.engineering.cornell.edu/",
+      "startDate": "2023-01",
+      "endDate": "-",
+      "summary": "Courses: Simulation Modeling and Analysis, Practical Tools for Data Science and Machine Learning in Operations Research, Engineering Applications of Operations Research"
     }
     ,
     {
@@ -93,96 +102,87 @@
       "highlights": ["Industrial Engineering","Manufacturing"]
     }
   ],
-  "relevant experience": [
-    {
-      "institution": "Cornell University",
-      "location": "Ithaca, NY",
-      "url": "https://www.cornell.edu",
-      "area": "Operations Research and Information Engineering, Data Analytics Concentration",
-      "studyType": "Masters of Engineering",
-      "startDate": "2024-01-01",
-      "endDate": "2024-12-01",
-      "score": "4.0",
-      "courses": ["Supply Chain Management", "Reinforcement Learning", "Big Data Technologies"]
-    },
-    {
-      "institution": "Cornell University",
-      "location": "Ithaca, NY",
-      "url": "https://www.cornell.edu",
-      "area": "Operations Research and Information Engineering, Data Science Minor",
-      "studyType": "Bachelors of Science",
-      "startDate": "2020-08-01",
-      "endDate": "2024-12-01",
-      "score": "4.0",
-      "courses": ["Machine Learning", "Data Science", "Large Language Models", "Optimization","Object Oriented Programming and Data Structures", "Stochastic Processes", "Probability and Statistics", "Simulation Modeling and Analysis", "Manufacturing Systems Design and Consulting", "Service Systems Modeling", "Linear Algebra", "Financial & Managerial Accounting", "Communications in Engineering"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Cornell Engineering Dean's List",
+      "date": "2020-2024",
+      "issuer": "Cornell University",
+      "icon": "fa-solid fa-award"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Lester B. Knight Scholar",
+      "date": "2024",
+      "issuer": "Cornell University",
+      "icon": "fa-solid fa-graduation-cap"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Human Spirit Entrepreneurship Fellow",
+      "date": "2022",
+      "issuer": "Cornell University",
+      "icon": "fa-solid fa-lightbulb"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "SAT 1600",
+      "date": "2020",
+      "issuer": "College Board",
+      "icon": "fa-solid fa-star"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Tau Beta Pi Engineering Honors Society",
+      "date": "2023",
+      "issuer": "Cornell University",
+      "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "National Merit Scholar",
+      "date": "2020",
+      "issuer": "National Merit Scholarship Corporation",
+      "icon": "fa-solid fa-medal"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
+    "name": "Technical Programming",
+    "level": "Advanced",
+    "icon": "fa-solid fa-code",
+    "keywords": [
+      "Python (Numpy, Pandas, PyTorch, Scipy, PySpark, SkiKit-learn, Seaborn, MatPlotLib, TensorFlow, Statsmodels, Gurobi)",
+      "R",
+      "SQL",
+      "Java",
+      "HTML and CSS",
+      "Simio",
+      "Github"
+    ]
+  },
+  {
+    "name": "Technical Other",
+    "level": "Advanced",
+    "icon": "fa-solid fa-database",
+    "keywords": [
+      "Excel",
+      "Tableau",
+      "Power BI", 
+      "Quicksight",
+      "AWS Redshift",
+      "Data Modeling",
+      "ETLM Tools"
+    ]
+  },
+  {
+    "name": "Practical",
+    "level": "Varied",
+    "icon": "fa-solid fa-ellipsis-h",
+    "keywords": [
+      "Adobe Illustrator and Photoshop",
+      "Lean Six Sigma",
+      "Data and Statistical Analysis",
+      "Optimization",
+      "Operations Research Modeling",
+      "Stochastic Processes",
+      "Monte Carlo Simulation",
+      "Queueing Theory"
+    ]
+  }
   ]
 }
