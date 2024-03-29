@@ -37,7 +37,7 @@
       "position": "Consultant Analyst",
       "url": "https://sageanalysis.com/",
       "startDate": "2025-03",
-      "endDate": "    ",
+      "endDate": "",
       "summary": "",
       "highlights": ["System Dynamics","Discrete Event Simulation","Data Science","Consulting"]
     },
@@ -87,7 +87,7 @@
       "position": "Teaching Assistant",
       "url": "https://www.engineering.cornell.edu/",
       "startDate": "2023-01",
-      "endDate": "-",
+      "endDate": "",
       "summary": "Courses: Simulation Modeling and Analysis, Practical Tools for Data Science and Machine Learning in Operations Research, Engineering Applications of Operations Research"
     }
     ,
