@@ -110,6 +110,12 @@
       "icon": "fa-solid fa-award"
     },
     {
+      "name": "Omega Rho International Operations Research Honor Society",
+      "date": "2024",
+      "issuer": "Cornell University School of Operations Research and Information Engineering",
+      "icon": "fa-solid fa-award"
+    },
+    {
       "name": "Lester B. Knight Scholar",
       "date": "2024",
       "issuer": "Cornell University",
@@ -152,6 +158,7 @@
       "Java",
       "HTML and CSS",
       "Simio",
+      "Git",
       "Github"
     ]
   },
@@ -166,7 +173,10 @@
       "Quicksight",
       "AWS Redshift",
       "Data Modeling",
-      "ETLM Tools"
+      "ETLM Tools",
+      "Time Series Forecasting",
+      "Machine Learning",
+      "Reinforcement Learning"
     ]
   },
   {
